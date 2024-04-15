@@ -6,7 +6,7 @@
 
 <p> As a dedicated full-stack software developer, I am motivated by the opportunity to utilise cutting-edge technology that leads to innovation in creating impactful solutions that contribute to a sustainable future for our planet and society. <  #Azura (learning)>  </p>
 
-<h3> Knowledge Ocean: </h3>
+<h3> Knowledge Ocean:</h3>
 
 <div style="white-space: nowrap; font-size: 0;">
     <code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
