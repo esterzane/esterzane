@@ -11,7 +11,7 @@
 
 <p> Be the wave! Set is coming... 🌊🏄🏼‍♀️🌊🐋 </p>
 
-![_WOW2555_2](https://github.com/esterzane/Zane-Estere-Gruntmane/assets/141255754/b548b4fe-89b7-414c-aca6-04d42192edd2){:width="80px"}
+![_WOW2555_2](https://github.com/esterzane/Zane-Estere-Gruntmane/assets/141255754/b548b4fe-89b7-414c-aca6-04d42192edd2)
 
 
 <h3> Knowledge Ocean:</h3>
