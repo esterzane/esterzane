@@ -6,8 +6,10 @@
 <p> 
 🌍🌴 With a tangible knowledge of Europe gained from living and working across diverse cultural and social contexts, I've developed strong creative and analytical skills. My expertise lies in differentiating and bridging perspectives to address contemporary challenges; to contextualize and integrate future visions into current practices, particularly in creative innovation, environmental well-being, and digital technologies. It is an openness and curiosity that thrives my creative mind to work with imagination in searching for their authentic ways. 🌏 🌱
 
-Liveliness, tactfulness, and attention to detail are three of my personal qualities that levitate into an amazing expression of communication, negotiation, and interpersonal relations. In my opinion, the values - trust, team playing, ethics in meaning - are essential towards a successful working field. Beyond all, the Ocean and the practice of surfing are how I am immersing myself in an exploration of infinitive knowledge, this way shaping a way of life.🌊🏄🏼‍♀️🌊🐋  
+Liveliness, tactfulness, and attention to detail are three of my personal qualities that levitate into an amazing expression of communication, negotiation, and interpersonal relations. In my opinion, the values - trust, team playing, ethics in meaning - are essential towards a successful working field. Beyond all, the Ocean and the practice of surfing are how I am immersing myself in an exploration of infinitive knowledge, this way shaping a way of life.   
 </p>
+
+<p> Be the wave! 🌊🏄🏼‍♀️🌊🐋 </p>
 
 
 <h3> Knowledge Ocean:</h3>
