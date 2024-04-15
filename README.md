@@ -2,7 +2,7 @@
 <h2> 💻 full-stack software developer 💫 creative catalyst  🌊 dedicated surfer 🏄🏼‍♀️ </h2>
 
 <p> 
-🌍🌴 With a tangible knowledge of Europe gained from living and working across diverse cultural and social contexts, I've developed strong creative and analytical skills.My expertise lies in differentiating and bridging perspectives to address contemporary challenges; to contextualize and integrate future visions into current practices, particularly in creative innovation, environmental well-being, and digital technologies. It is an openness and curiosity that thrives my creative mind to work with imagination in searching for their authentic ways.. 🌏 🌱 </p>
+🌍🌴 With a tangible knowledge of Europe gained from living and working across diverse cultural and social contexts, I've developed strong creative and analytical skills. My expertise lies in differentiating and bridging perspectives to address contemporary challenges; to contextualize and integrate future visions into current practices, particularly in creative innovation, environmental well-being, and digital technologies. It is an openness and curiosity that thrives my creative mind to work with imagination in searching for their authentic ways.. 🌏 🌱 </p>
 
 <p> As a dedicated full-stack software developer, I am motivated by the opportunity to utilise cutting-edge technology that leads to innovation in creating impactful solutions that contribute to a sustainable future for our planet and society. <  #Azura (learning)>  </p>
 
