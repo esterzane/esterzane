@@ -1,5 +1,5 @@
 <h1> Zane Estere Gruntmane </h1>
-<h2> 💻 full-stack software developer 💫 creative catalyst  🌊 a dedicated surfer 🏄🏼‍♀️ </h2>
+<h2> 💻 full-stack software developer 💫 creative catalyst  🌊 dedicated surfer 🏄🏼‍♀️ </h2>
 
 <p> 
 🌍🌴 With a tangible knowledge of Europe gained from living and working across diverse cultural and social contexts, I've developed strong creative and analytical skills.My expertise lies in differentiating and bridging perspectives to address contemporary challenges; to contextualize and integrate future visions into current practices, particularly in creative innovation, environmental well-being, and digital technologies. It is an openness and curiosity that thrives my creative mind to work with imagination in searching for their authentic ways.. 🌏 🌱 </p>
@@ -24,9 +24,3 @@
     <h4> Learning: </h4>
     <code><img width="30" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code> 
 </div>
-
-
-
-
-
-<p> Dedicated to full-stack development and motivated by the opportunity to utilise cutting-edge technology to address contemporary challenges, I aim to lead innovation in creating impactful solutions that contribute to a sustainable future for our planet and society. </p>
