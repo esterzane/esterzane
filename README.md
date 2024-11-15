@@ -9,7 +9,7 @@
 🌴 Liveliness, tactfulness, and attention to detail are three of my personal qualities that levitate into an amazing expression of communication, negotiation, and interpersonal relations. In my opinion, the values - trust, team playing, ethics in meaning - are essential towards a successful working field. Beyond all, the Ocean and the practice of surfing are how I am immersing myself in an exploration of infinitive knowledge, this way shaping a way of life. 🌱  
 </p>
 
-<p> Be the wave! Set is coming... 🌊🏄🏼‍♀️🌊🐋 </p>
+<p> Be the wave! Be the change... 🌊🏄🏼‍♀️🌊🐋 </p>
 
 ![_WOW9908-cópia](https://github.com/esterzane/Zane-Estere-Gruntmane/assets/141255754/946f2443-95cd-467e-9710-44e32d815285)
 
