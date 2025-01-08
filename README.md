@@ -31,6 +31,5 @@
 <div> 
     <h4> Learning: </h4>
     <code><img width="30" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code> 
-     <code> <img width="30"scr= "![image](https://github.com/user-attachments/assets/65026ab7-d61d-446f-bd60-3507be02512e)" title="SvelteKit"/> </code>
-</code>
+     <code> <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" title="SvelteKit" alt="Svelte Logo" /> </code>
 </div>
